@@ -2,7 +2,7 @@
 export const  URL = 'https://acceptance.mgthost.com/login'
 export const  usernameField = 'form > div:nth-of-type(1) input'
 export const  email = 'demo+LJ-01324@mercans.com'
-export const  passwordField = 'form > div:nth-of-type(2) input'
+export const  PasswordField = 'form > div:nth-of-type(2) input'
 export const  Password  = 'Employee1!'
 export const  LoginBtn = 'div.launchpad__left-side button > span'
 export const  Dashboard = "a:nth-of-type(2) > span.lp-dashboard-card__description"
